@@ -4,12 +4,9 @@
 ### rain 2015_1.txt
 Rain precipitation in Olympic Mountain; Time of measurement; Latitude; Longitude <br>
 Source: NASA OLYMEX
-### rain 2015_2.txt
-Rain precipitation in Olympic Mountain; Time of measurement; Latitude; Longitude <br>
-Source: NASA OLYMEX
+
 ### rain 2016_1.txt
 Rain precipitation in Olympic Mountain; Time of measurement; Latitude; Longitude <br>
 Source: NASA OLYMEX
-### rain 2016_2.txt
-Rain precipitation in Olympic Mountain; Time of measurement; Latitude; Longitude <br>
-Source: NASA OLYMEX
+
+### Olympex.ipynb
