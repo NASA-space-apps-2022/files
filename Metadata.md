@@ -1,4 +1,4 @@
-# files
+# Files
 ### This repository is used as a data base. All the files we use along data corralation and validation process are uploaded here.
 ## List
 ### Olympex.ipynb
