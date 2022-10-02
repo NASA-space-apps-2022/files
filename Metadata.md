@@ -4,9 +4,10 @@
 ### Olympex.ipynb
 Olympic Mountain 2015-2016 rainfall in mm average per month graphs
 Sources: OLYMPEX NASA 
-files used:
-         rain 2015_1.csv
-         rain 2016_1.csv
+files used: <br>
+         rain 2015_1.csv <br>
+         rain 2016_1.csv <br>
+         
 ### rain 2015_1.csv
 Rain precipitation in Olympic Mountain; Time of measurement; Latitude; Longitude <br>
 Source: NASA OLYMEX
@@ -20,9 +21,9 @@ Mt Baker 2015-2016 rainfall in mm average per month graphs
 Mt Baker 2015-2016 rainfall in mm average per month graphs
 Sources: Mt. Baker website; World Weather Online
 
-files used:
-         2015.csv
-         2016.csv
+files used: <br>
+         2015.csv <br>
+         2016.csv <br>
          
 ### 2015.csv
 Rain and snow precipitation in Mt. Baker in 2015 <br>
