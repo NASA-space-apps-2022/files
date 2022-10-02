@@ -34,3 +34,8 @@ Source: Mt. Baker website; World Weather Online <br>
 Rain and snow precipitation in Mt. Baker in 2016 <br>
 Month; Rainfall in milimeters; Snowfall in milimeters; Snowfall in inches <br>
 Source: Mt. Baker website; World Weather Online <br>
+
+### Comparison.xslx
+Snowfall in Cascade Mountain Range,  Snowfall and Rainfall in mount Olympic  comparison  <br>
+Olympic Mts_rain in inches; Olympic Mts_snow in inches; Mt. Loup Loup_snow in inches; Mt. Baker_snow in inches; Crystal Mt._snow in inches; Badger Mt._snow in inches; Mt. Olympic Rain-Snow in inches  <br>
+Source: Snow Forecast.com; Whether US.com  <br>
